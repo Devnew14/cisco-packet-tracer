@@ -6,6 +6,8 @@ Mettre en place un réseau local simple permettant à deux ordinateurs de commun
 
 ## Topologie
 
+Exemple d'exercice
+
 PC0 → Switch → PC1
 
 ## Configuration
